@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gerald-coder
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python 
+- 🌱 I’m currently learning javascript to become a front-end developer
 - 💞️ I’m looking to collaborate on the services provided by github
 - 📫 How to reach me , preferably via email
 
