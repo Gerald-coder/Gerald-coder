@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gerald Oduigwe
 ======================================================================================================================================
 
-Software Engineer| Frontend Developer ✈|
+Software Engineer| MERN | Web3 | Solidity ✈|
 ----------------------------------------
 
 I am a dedicated Frontend Developer with a passion for crafting exceptional user experiences, I specialize in building dynamic and responsive web applications using the power of React and many other frontend tools .
