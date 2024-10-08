@@ -1,13 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gerald Oduigwe
 ======================================================================================================================================
 
-Software Engineer| MERN | Web3 | Solidity ✈|
+Software Engineer | MERN | Web3 | Solidity ✈|
 ----------------------------------------
 
 I am a dedicated Frontend Developer with a passion for crafting exceptional user experiences, I specialize in building dynamic and responsive web applications using the power of React and many other frontend tools .
 
 * ✉️  You can contact me at [paulsongerald00@gmail.com](mailto:paulsongerald00@gmail.com)
-* 🧠  I'm learning everything javascript specifically Node js
+* 🧠  Building with JavaScript and TypeScript. 
 * 🤝  I'm open to collaborating on Fullstack (MERN) projects, and job opportunities
 
 <a href="https://www.x.com/Gerald_Oduigwe" target="_blank" rel="noreferrer"><img
