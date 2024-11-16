@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer | MERN | Web3 | Solidity ✈|
 ----------------------------------------
 
-I am a dedicated Frontend Developer with a passion for crafting exceptional user experiences, I specialize in building dynamic and responsive web applications using the power of React and many other frontend tools .
+I am a dedicated Fullstack Developer with a passion for crafting exceptional web applications with best user experiences, I specialize in building dynamic and responsive web applications using the power of React and many other frontend tools .
 
 * ✉️  You can contact me at [paulsongerald00@gmail.com](mailto:paulsongerald00@gmail.com)
 * 🧠  Building with JavaScript and TypeScript. 
