@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gerald Oduigwe
 ======================================================================================================================================
 
-Software Engineer | MERN | Web3 | Solidity ✈|
+Software Engineer | MERN | AI Engineer | Cloud Enthusiast ✈|
 ----------------------------------------
 
-I am a dedicated Fullstack Developer with a passion for crafting exceptional web applications with best user experiences, I specialize in building dynamic and responsive web applications using the power of React and many other frontend tools .
+Full-stack developer building modern, AI-ready web applications with React and scalable backend systems. Focused on performance, usability, and end-to-end product delivery. .
 
 * ✉️  You can contact me at [paulsongerald00@gmail.com](mailto:paulsongerald00@gmail.com)
 * 🧠  Building with JavaScript and TypeScript. 
